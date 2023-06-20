@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/Basics/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/app.calculator/app.calculator.iml" filepath="$PROJECT_DIR$/Basics/app.calculator/app.calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/mydemoapp/mydemoapp.iml" filepath="$PROJECT_DIR$/Basics/mydemoapp/mydemoapp.iml" />
